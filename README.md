@@ -1,36 +1,32 @@
 ![logo](https://github.com/shravyavorugallu/shravyavorugallu/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Shravya Vorugallu</h1>
-<h3 align="center">A passionate Cybersecurity enthusiast from India</h3>
+<h3 align="center">A passionate Cybersecurity enthusiast from New York</h3>
 
 <img align="right" alt="coding" width="300" height="200" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/shravs_02" target="blank"><img src="https://img.shields.io/twitter/follow/shravs_02?logo=twitter&style=for-the-badge" alt="shravs_02" /></a> </p>
 
-- 🔭 I’m currently working on **Industrial Project on ML Optimization**
+- 🔭 I’m currently working on **IoT Inspector Client**
 
 - 🌱 I’m currently learning **Offensive Security Certified Professional Training**
 
-- 👯 I’m looking to collaborate on **Cyber Incident Risk management and Detection response**
+- 👯 I’m looking to collaborate on **Application Security and Cloud Security Projects**
 
 - 🤝 I’m looking for help with **Security flaws in IoT devices**
-
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/shravya-vorugallu/home](https://sites.google.com/view/shravya-vorugallu/home)
 
 - 📝 I regularly follow articles on [https://www.scmagazine.com/security-weekly-blog](https://www.scmagazine.com/security-weekly-blog)
 
 - 💬 Ask me about **Bug Bounties, XSS, SQL injections**
 
-- 📫 How to reach me **shravyavorugallu@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1mHG1cE0haufnm2TVvqk7lm2VRbi59jB0/edit](https://docs.google.com/document/d/1mHG1cE0haufnm2TVvqk7lm2VRbi59jB0/edit)
+- 📫 How to reach me **sv2630@nyu.edu**
 
 - ⚡ Fun fact **"I’m very interested in technology and learning more about myself, others, and the world around me. Uncovering someone’s knowledge chart helps me better communicate with them."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shravs_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shravs_02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shravya-vorugallu-194450710203ab2b451a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shravya-vorugallu-194450710203ab2b451a6/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shravyavorugallu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shravyavorugallu/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

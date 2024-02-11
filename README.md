@@ -30,42 +30,42 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="owasp" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    <img src="https://www.kali.org/images/kali-logo.svg" alt="kali" width="40" height="40"/>
-</p>
+## Skills
 
-<h2>KEY SKILLS:</h2>
-<ul>
-    <li>Access Control</li>
-    <li>Authentication Protocols</li>
-    <li>Intro to Programming</li>
-    <li>Command Line</li>
-</ul>
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
+- ![OWASP](https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg) OWASP
+- ![Powershell](https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg) Powershell
+- ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) Bash
+- ![Kali](https://www.kali.org/images/kali-logo.svg) Kali
 
-<p align="left">
-    <img src="https://nmap.org/s/ncat-tile.png" alt="nmap" width="40" height="40"/>
-    <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="wireshark" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/cve/cve-icon.svg" alt="cve" width="40" height="40"/>
-    <img src="https://nvd.nist.gov/vuln/data-feeds" alt="nvd" width="40" height="40"/>
-    <img src="https://www.fortinet.com/content/dam/fortinet/blog/logos/fortinet-logo-white.png" alt="fortinet" width="40" height="40"/>
-</p>
+## Key Skills
 
-<p align="left">
-    <img src="https://www.vectorlogo.zone/logos/computer-network/computer-network-icon.svg" alt="networking" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/security/security-icon.svg" alt="network-security" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/intrusion-detection/intrusion-detection-icon.svg" alt="intrusion-detection" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/authentication/authentication-icon.svg" alt="authentication" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/encryption/encryption-icon.svg" alt="encryption" width="40" height="40"/>
-</p>
+- Access Control
+- Authentication Protocols
+- Intro to Programming
+- Command Line
 
-<p align="left">
-    <img src="https://www.metasploitunleashed.com/msfu/images/metasploit-logo-2021.png" alt="metasploit" width="40" height="40"/>
-    <img src="https://www.tenable.com/themes/custom/tenable/images/nessus-logo.svg" alt="nessus" width="40" height="40"/>
-</p>
+## Security Tools
+
+- ![Nmap](https://nmap.org/s/ncat-tile.png) Nmap
+- ![Wireshark](https://www.wireshark.org/assets/img/wireshark-logo.png) Wireshark
+- ![CVE](https://www.vectorlogo.zone/logos/cve/cve-icon.svg) Common Vulnerabilities & Exposures
+- ![NVD](https://nvd.nist.gov/vuln/data-feeds) National Vulnerability Database
+- ![Fortinet](https://www.fortinet.com/content/dam/fortinet/blog/logos/fortinet-logo-white.png) Fortinet
+
+## Networking and Security
+
+- ![Networking](https://www.vectorlogo.zone/logos/computer-network/computer-network-icon.svg) Networking Fundamentals
+- ![Network Security](https://www.vectorlogo.zone/logos/security/security-icon.svg) Network Security
+- ![Intrusion Detection](https://www.vectorlogo.zone/logos/intrusion-detection/intrusion-detection-icon.svg) Intrusion Detection
+- ![Authentication](https://www.vectorlogo.zone/logos/authentication/authentication-icon.svg) Authentication
+- ![Encryption](https://www.vectorlogo.zone/logos/encryption/encryption-icon.svg) Encryption
+
+## Penetration Testing Tools
+
+- ![Metasploit](https://www.metasploitunleashed.com/msfu/images/metasploit-logo-2021.png) Metasploit
+- ![Nessus](https://www.tenable.com/themes/custom/tenable/images/nessus-logo.svg) Nessus
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravyavorugallu&show_icons=true&locale=en&layout=compact" alt="shravyavorugallu" /></p>

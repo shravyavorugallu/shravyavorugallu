@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Infrastructure+%26+Platform+Engineer;Python+%7C+Go+%7C+C%2B%2B;Kubernetes+%7C+Terraform+%7C+Ansible;Building+compute+clusters+at+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Software+Engineer+Infrastructure+%26+Platform;Python+%7C+Go+%7C+C%2B%2B;Kubernetes+%7C+Terraform+%7C+Helm;Building+compute+clusters+at+scale" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-I build and operate the infrastructure that lets engineers ship faster. Right now that means compute clusters, observability pipelines, and automation that removes toil at Marsh McLennan.
+Experience in infrastructure systems used by 3M+ users, managing 125+ nodes automating 25+ data processes while pairing with data, analytics, vendor and security teams building their ambiguous visions into production operational platforms
 
 &nbsp;
 
@@ -59,6 +59,7 @@ I build and operate the infrastructure that lets engineers ship faster. Right no
 ### What I focus on
 
 ```
+Build risk detection ETLs and Data Platforms
 Reducing operational toil through automation
 Cluster reliability from bare metal to scheduler
 Observability that makes problems visible before users notice

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Software+Engineer+Infrastructure+%26+Platform;Python+%7C+Go+%7C+C%2B%2B;Kubernetes+%7C+Terraform+%7C+Helm;Building+compute+clusters+at+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Software+Engineer+Infrastructure+%26+Platform;Python+%7C+Go+%7C+C%2B%2B;Kubernetes+%7C+Terraform+%7C+Helm;Building+visions+at+scale" alt="Typing SVG" />
 
 </div>
 
